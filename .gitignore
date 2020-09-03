@@ -1,0 +1,11 @@
+__pycache__
+#need to make your own redditSecret.py:
+#secretDic = {
+#    'client_id':'your client id',
+#    'client_secret':'your client secret',
+#    'user_agent':'your user agent',
+#    'username':'your username',
+#    'password': 'your password'
+#}
+redditSecret.py 
+
